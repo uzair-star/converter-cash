@@ -1,0 +1,4 @@
+open this code in any python intrepreter like pycharm or vs code etc.
+step 1- download python libraries request
+step 2- download library tkinter
+and run 
